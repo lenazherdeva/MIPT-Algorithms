@@ -1,1 +1,1 @@
-# MIPT--Algorithms
+# MIPT-Algorithms
